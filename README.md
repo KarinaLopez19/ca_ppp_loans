@@ -35,12 +35,7 @@ Our team has curated a dashboard that displays the effects of the PPP loan progr
 
 This dashboard is interactive so the user can choose which counties and industries they would like to explore and understand how each was affected by the COVID-19 pandemic in 2020 and whether the PPP loan program properly assisted businesses and industries in need. The dashboard was created using Plotly and Dash and hosted on Amazon Web Services. Here is a snapshot of our dashboard:
 
-Inline-style: 
-![Dashboard](https://drive.google.com/file/d/1M6BGcb3NyKa3o9CGICommslvCoRWsnFb/view?usp=sharing)
-
-Inline-style: 
-![Unemployment levels by county](https://drive.google.com/file/d/17DTgsDDLn01LQ2lAZu0SeAjLH0WREOMz/view?usp=sharing)
-
+![Dashboard](https://github.com/KarinaLopez19/ca_ppp_loans/blob/main/images/entire_dashboard.png)
 
 To access our dashboard, please follow the [link provided here](http://18.222.209.120:8080/?fbclid=IwAR1A4-_17NnBhEWbGthVRnuOzLuBsidrD47G8nWxhtM3UMRUU-vWZT_ifHw)
 
