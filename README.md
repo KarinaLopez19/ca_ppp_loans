@@ -41,3 +41,8 @@ To access our dashboard, please follow the [link provided here](http://18.222.20
 
 
 ## Table of contents
+
+1. preprocessing
+2. analyses
+3. final_figures
+4. interactive_figures
