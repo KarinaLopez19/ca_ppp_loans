@@ -42,7 +42,13 @@ To access our dashboard, please follow the [link provided here](http://18.222.20
 
 ## Table of contents
 
-1. preprocessing
-2. analyses
-3. final_figures
-4. interactive_figures
+1. preprocessing: contains all scripts for preprocessing our datasets
+2. analyses: contains all exploratory and finalized analyses
+3. dashboard: contains all files and scripts for our interactive dashboard
+4. images: contains figures showcased on our readme
+
+# Collaborators: 
+[Ayesha Yusuf](https://github.com/ayeshayuseuf)
+[Karina Lopez](https://github.com/KarinaLopez19)
+[Lila Mandela](https://github.com/madiba2013)
+[Paul Iona](https://github.com/pauliona)
