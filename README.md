@@ -1,3 +1,5 @@
+![banner](https://github.com/KarinaLopez19/ca_ppp_loans/blob/main/images/DS4A%20Team%2095.png)
+
 # ca_ppp_loans
 
 In March 2020, the US congress passed the CARES Act. Part of this legislation included the Paycheck Protection Program (PPP), whose mission was to sustain small businesses and allow them to remain open in a post-COVID economy. 
