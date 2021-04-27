@@ -48,7 +48,7 @@ To access our dashboard, please follow the [link provided here](http://18.222.20
 4. images: contains figures showcased on our readme
 
 # Collaborators: 
-[Ayesha Yusuf](https://github.com/ayeshayuseuf)
+[Ayesha Yusuf](https://github.com/ayeshayusuf)
 
 [Karina Lopez](https://github.com/KarinaLopez19)
 
