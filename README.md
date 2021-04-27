@@ -49,6 +49,9 @@ To access our dashboard, please follow the [link provided here](http://18.222.20
 
 # Collaborators: 
 [Ayesha Yusuf](https://github.com/ayeshayuseuf)
+
 [Karina Lopez](https://github.com/KarinaLopez19)
+
 [Lila Mandela](https://github.com/madiba2013)
+
 [Paul Iona](https://github.com/pauliona)
