@@ -27,11 +27,11 @@ In order to better assess the performance of our federal government in respondin
 **United States Bureau of Labor Statistics**
 - Industry mean earnings
 
-**Opportunity Insights**
+[**Opportunity Insights**](https://github.com/OpportunityInsights)
 - Employment-level
 - Industry and Business revenue
 
-## Preview of our dashboard
+## Preview our dashboard
 
 Our team has curated a dashboard that displays the effects of the PPP loan program on California California and major industries across the state. It is available for anyone interested to view online and includes important metrics such as PPP Loan Distribution by county and small business revenue per major industry. 
 
@@ -44,10 +44,10 @@ To access our dashboard, please follow the [link provided here](http://18.222.20
 
 ## Table of contents
 
-1. preprocessing: contains all scripts for preprocessing our datasets
-2. analyses: contains all exploratory and finalized analyses
-3. dashboard: contains all files and scripts for our interactive dashboard
-4. images: contains figures showcased on our readme
+1. **preprocessing:** contains all scripts for preprocessing our datasets
+2. **analyses:** contains all exploratory and finalized analyses
+3. **dashboard:** contains all files and scripts for our interactive dashboard
+4. **images:** contains figures showcased on our readme
 
 # Collaborators: 
 [Ayesha Yusuf](https://github.com/ayeshayusuf)
